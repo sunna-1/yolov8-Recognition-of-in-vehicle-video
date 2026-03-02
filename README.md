@@ -4,8 +4,8 @@
 该项目使用yolov8n.pt，仅用于展示，如果你需要实际应用，最好准备好数据集进行训练
 
 # 源码下载 
-前往 [Release](https://github.com/MaiM-with-u/MaiBot/releases/) 页面下载源码（带有venv环境）
-大小:449MB
+前往 [Release](https://github.com/sunna-1/yolov8-Recognition-of-in-vehicle-video/releases) 页面下载源码（带有venv环境）
+**大小**:449MB
 
 ## 功能特性
 
