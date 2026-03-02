@@ -1,11 +1,12 @@
 # 动态路况分析系统
 
-基于YOLO和Vue3的智能交通路况分析平台，支持视频文件和实时摄像头输入，对车辆、行人、交通标识等进行高精度识别和数据分析。
+基于YOLO和Vue3的智能交通路况分析平台，支持视频文件和实时摄像头输入，对车辆、行人、交通标识等进行识别和数据分析。
 该项目使用yolov8n.pt，仅用于展示，如果你需要实际应用，最好准备好数据集进行训练
 
 # 源码下载 
--前往 [Release](https://github.com/sunna-1/yolov8-Recognition-of-in-vehicle-video/releases) 页面下载源码（带有venv环境）
--**大小**:449MB
+前往 [Release](https://github.com/sunna-1/yolov8-Recognition-of-in-vehicle-video/releases) 页面下载源码（带有venv环境）
+
+大小:449MB
 
 ## 功能特性
 
